@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+    <center>
+<div class="container">
+  <form id="contact" method="post" enctype="multipart/form-data" action="predictResult">
+    {% csrf_token %}
+    <h3>Please Enter Image</h3>
+    <fieldset>
+      <input type="file" tabindex="1" name="Image" >
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" value="Submit">Submit</button>
+    </fieldset>
+  </form>
+</div>
+</center>
+{% endblock %}
