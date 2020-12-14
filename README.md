@@ -1,7 +1,5 @@
 <h1>Monkey Breed Prediction Website</h1>
-## Note :memo:
 
-2 Files has not been uploaded on GitHub Due to their large size.
 
 <p align="center">
 <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
@@ -15,6 +13,10 @@
 </p>
 
 Click [here](https://shields.io/) and select shields for you project
+
+## Note :memo:
+
+2 Files has not been uploaded on GitHub Due to their large size.
 
 ## Apresentation of Project :sparkles:
 
