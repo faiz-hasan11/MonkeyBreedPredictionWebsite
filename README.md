@@ -3,16 +3,11 @@
 
 <p align="center">
 <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#tecnologies-rocket">Technologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<image src="https://img.shields.io/badge/Custom-shields%20here-red"/>
-</p>
-
-Click [here](https://shields.io/) and select shields for you project
 
 ## Note :memo:
 
