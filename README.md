@@ -23,7 +23,7 @@ Click [here](https://shields.io/) and select shields for you project
 ## Instruction :pen:
 
 - Create 'models' folder inside 'monkey' and paste the model there;
-- Push to your branch: `git push origin my-feature`.
+- Paste the TF Dependency in \Monkey\Lib\site-packages\tensorflow\python.
 
 ## Apresentation of Project :sparkles:
 
