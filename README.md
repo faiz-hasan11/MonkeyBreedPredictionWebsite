@@ -20,8 +20,9 @@ Click [here](https://shields.io/) and select shields for you project
 - Model(https://drive.google.com/file/d/1CpwUtzJjgV2r8MTK4AgaGx_XuR8Cjhpi/view?usp=sharing);
 - Tensorflow Dependency;
 
-Paste the model Inside 
-- Commit your changes: `git commit -m 'feat: my new feature'`;
+## Instruction :pen:
+
+- Create 'models' folder inside 'monkey' and paste the model there;
 - Push to your branch: `git push origin my-feature`.
 
 ## Apresentation of Project :sparkles:
