@@ -71,7 +71,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the pac
 pip install -r requirements.txt
 ```
 
-Change directory to HeartDiseasePrediction.
+Change directory to Monkey.
 Run the following command
 ```bash
 python manage.py runserver
@@ -84,4 +84,4 @@ An IP address will be shown, copy it and run it on a web browser.
 
 ---
 
-##### Made by 'Your name'(nickname) :wave:
+##### Made by Syed Faiz Hasan :wave:
