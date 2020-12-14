@@ -41,7 +41,11 @@ The model was then saved and downloaded.<br/>
 
 <p align="center"> HOME PAGE
 <image src="https://github.com/faiz-hasan11/MonkeyBreedPredictionWebsite/blob/master/HomePage.png" />
+</p><br>
+<p align="center"> PREDICTION PAGE
+<image src=https://github.com/faiz-hasan11/MonkeyBreedPredictionWebsite/blob/master/PredictionPage.png" />
 </p>
+
 
 ---
 
