@@ -16,9 +16,9 @@ Click [here](https://shields.io/) and select shields for you project
 
 ## Note :memo:
 
-2 Files has not been uploaded on GitHub Due to their large size.
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
+2 Files has not been uploaded on GitHub Due to their large size.These Files Are =>
+- Model;
+- Tensorflow Dependency;
 - Commit your changes: `git commit -m 'feat: my new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
