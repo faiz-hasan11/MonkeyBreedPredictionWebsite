@@ -5,7 +5,7 @@
 <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#tecnologies-rocket">Technologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
 </p>
 
 
