@@ -18,7 +18,7 @@ Click [here](https://shields.io/) and select shields for you project
 
 2 Files has not been uploaded on GitHub Due to their large size.These Files Are =>
 - Model(https://drive.google.com/file/d/1CpwUtzJjgV2r8MTK4AgaGx_XuR8Cjhpi/view?usp=sharing);
-- Tensorflow Dependency;
+- Tensorflow Dependency(https://drive.google.com/file/d/1WnBBtb6vtaycBADmEU9ppx2vKYiyK0w7/view?usp=sharing);
 
 ## Instruction :pen:
 
