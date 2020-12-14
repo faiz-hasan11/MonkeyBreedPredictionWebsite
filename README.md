@@ -53,9 +53,10 @@ Read portuguese version [HERE](README-Portuguese.md)
 
 
 
-## Tecnologies :rocket:
+## Technologies :rocket:
 
-- <a href="#">List here</a>
+- <a href="https://www.djangoproject.com/">Django</a>
+- <a href="https://www.tensorflow.org/">Tensorflow</a>
 
 ## How to Contribute 🤔
 
