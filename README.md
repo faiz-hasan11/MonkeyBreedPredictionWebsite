@@ -1,9 +1,4 @@
-<h1>Project Title</h1>
-
-<p align="center">
-<image src=".github/logo.jpg"/></br>
-<label>Logo</label>
-</p>
+<h1>Monkey Breed Prediction Website</h1>
 
 <p align="center">
 <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
