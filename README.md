@@ -49,21 +49,34 @@ The model was then saved and downloaded.<br/>
 
 ---
 
-Read portuguese version [HERE](README-Portuguese.md)
-
-
-
 ## Technologies :rocket:
 
 - <a href="https://www.djangoproject.com/">Django</a>
 - <a href="https://www.tensorflow.org/">Tensorflow</a>
 
-## How to Contribute 🤔
+## How to Run 🤔
+After cloning or downloading this github repo on the local system. 
+Create a Virual Environment on the Desktop.
+```bash
+virtualenv VirtualEnvironmentName
+```
+Now copy the repository inside your virtual environment.
+Activate the virtual environment.
+```bash
+~/desktop/VirtualEnvironmentName/Scripts/activate
+```
+Move inside the virtual environment.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the packages.
+```bash
+pip install -r requirements.txt
+```
 
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: my new feature'`;
-- Push to your branch: `git push origin my-feature`.
+Change directory to HeartDiseasePrediction.
+Run the following command
+```bash
+python manage.py runserver
+```
+An IP address will be shown, copy it and run it on a web browser.
 
 ## License :scroll:
 
