@@ -40,7 +40,7 @@ The model was then saved and downloaded.<br/>
 ## Apresentation of Project :sparkles:
 
 <p align="center">
-<image src=".github/image-example.png" />
+<image src="https://github.com/faiz-hasan11/MonkeyBreedPredictionWebsite/blob/master/HomePage.png" />
 </p>
 
 ---
