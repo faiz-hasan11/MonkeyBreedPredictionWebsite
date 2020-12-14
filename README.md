@@ -17,8 +17,10 @@ Click [here](https://shields.io/) and select shields for you project
 ## Note :memo:
 
 2 Files has not been uploaded on GitHub Due to their large size.These Files Are =>
-- Model;
+- Model(https://drive.google.com/file/d/1CpwUtzJjgV2r8MTK4AgaGx_XuR8Cjhpi/view?usp=sharing);
 - Tensorflow Dependency;
+
+Paste the model Inside 
 - Commit your changes: `git commit -m 'feat: my new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
