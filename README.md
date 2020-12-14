@@ -20,6 +20,10 @@
 - Create 'models' folder inside 'monkey' and paste the model there;
 - Paste the TF Dependency in \Monkey\Lib\site-packages\tensorflow\python.
 
+## About :memo:
+
+Brief description of project.
+
 ## Apresentation of Project :sparkles:
 
 <p align="center">
@@ -30,9 +34,7 @@
 
 Read portuguese version [HERE](README-Portuguese.md)
 
-## About :memo:
 
-Brief description of project.
 
 ## Tecnologies :rocket:
 
